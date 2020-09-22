@@ -27,6 +27,6 @@ lib/
 build/
 bin/
 *.DS_Store
-.stettings
+*.stettings
 *.project
 *.classpath
